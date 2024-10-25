@@ -9,3 +9,8 @@ Proyek Flutter ini berfokus pada implementasi **Data Table**, yaitu komponen UI 
 
 ### Tujuan Proyek
 Proyek ini bertujuan untuk memperkenalkan pengguna pada cara mengimplementasikan **Data Table** di aplikasi Flutter. Dengan menggunakan Data Table, pengguna dapat belajar cara menyajikan informasi dalam format yang lebih mudah dipahami, serta memahami cara mengelola data dalam aplikasi mereka. Proyek ini juga memberikan pengalaman dalam menyesuaikan dan mengelola data dalam tabel.
+
+# SHOWCASE
+<div align="center">
+  <img src="https://raw.githubusercontent.com/TEUNGKU-ZULKIFLI/PROJECT-FLUTTER/refs/heads/master/asset/img/013.1.png" width="200px"/>
+</div>
